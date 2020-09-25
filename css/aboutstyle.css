@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Tangerine:wght@700&display=swap");
+/* body{
+    background-color: blue;
+} */
+.title2 {
+  font-family: "Tangerine", cursive;
+  color: black;
+  font-size: 50px;
+  font-weight: lighter;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  font-family: "Lato", sans-serif;
+}
+
+.box {
+  box-sizing: content-box;
+  width: 1100px;
+  height: 1000px;
+  padding: 10px;
+  border: 1px solid grey;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.info P{
+    color: gray;
+}
+
+.nav2 ul {
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+}
+.nav2 li {
+  display: inline-block;
+  padding: 40px 7px;
+  text-align: center;
+}
+.nav2 a {
+  text-decoration: none;
+  color: gray;
+  font-family: "Lato", sans-serif;
+}
+
+.slash3 {
+  height: 0.5px;
+  width: 100px;
+  background: black;
+  position: absolute;
+  margin: auto;
+  left: 240px;
+  top: 430px;
+  transform: rotate(-180deg);
+}
+
+.slash4 {
+    height: 0.5px;
+    width: 100px;
+    background: black;
+    position: absolute;
+    margin: auto;
+    left: 940px;
+    top: 430px;
+    transform: rotate(-180deg);
+  }
+
+  .body{
+      display: flex;
+  }
