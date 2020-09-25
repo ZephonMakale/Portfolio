@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Tangerine:wght@700&display=swap");
 
 body {
-  background-image: url("/Images/Bgg.jpg");
+  background-image: url("../Images/Bgg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
