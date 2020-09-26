@@ -25,15 +25,16 @@
 .box {
   box-sizing: content-box;
   width: 1100px;
-  height: 1000px;
+  height: 900px;
   padding: 10px;
   border: 1px solid grey;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
-.info P{
-    color: gray;
+.info P {
+  color: gray;
 }
 
 .nav2 ul {
@@ -64,16 +65,169 @@
 }
 
 .slash4 {
-    height: 0.5px;
-    width: 100px;
-    background: black;
-    position: absolute;
-    margin: auto;
-    left: 940px;
-    top: 430px;
-    transform: rotate(-180deg);
+  height: 0.5px;
+  width: 100px;
+  background: black;
+  position: absolute;
+  margin: auto;
+  left: 940px;
+  top: 430px;
+  transform: rotate(-180deg);
+}
+.image {
+  padding: 3px 3px 2px 3px;
+  border: 0.5px solid #bfbfbf;
+  background-color: white;
+  box-shadow: 2px 2px 2px gray;
+  width: 300px;
+  height: 200px;
+}
+
+.paragraph-1 {
+  font-size: 25px;
+}
+
+.body {
+  display: flex;
+  /* margin: auto; */
+  /* width: 700px; */
+  margin-right: 250px;
+  margin-left: 250px;
+}
+
+.image {
+  margin-top: 30px;
+}
+.information {
+  /* display: grid; */
+  padding-left: 30px;
+  width: 100%;
+  /* width: 400px; */
+  /* flex: 1; */
+  /* justify-content: stretch; */
+}
+
+ul {
+  list-style: none;
+  /* padding-left: 0; */
+  color: black;
+}
+
+.ft-social-list {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    padding-top: 2rem;
+    justify-content: space-evenly;
+
+  } 
+  /* .ft-social-list li {
+    margin: 0.5rem;
+    font-size: 1.25rem;
+  } */
+  
+  hr{
+      width: 850px;
+  }
+  .ft-social-list li a {
+    color: black;
+    padding: 5px;
+
+  }
+  
+  .ft-legal-list li {
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1.2px;
+    padding-top: 2rem;
   }
 
-  .body{
-      display: flex;
+.ft-social{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+
+}
+
+.l-portfolio{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.l-portfolio h1{
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    font-size: 40px;
+}  
+.l-portfolio p{
+    text-align: center;
+}
+.l-portfolio h5{
+    /* text-align: center;
+    justify-content: center;
+    align-items: center; */
+    font-size: 17px;
+    /* display: flex; */
+    margin: auto;
+    width: 670px;
+    color: grey;
+}
+
+.hr-2{
+    width: 650px;
+    border: 1px solid grey;
+}
+
+.mtalii-logo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+.mtalii-logo h2{
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    color: gray;
+    font-weight: 800;
+}
+
+.box-2 {
+    box-sizing: content-box;
+    width: 1100px;
+    height: 2200px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  .champion-logo{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px; 
+  }
+
+  .champion-logo h2{
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    color: gray;
+    font-weight: 800;
+  }
+
+  .champion-web{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px; 
+  }
+
+  .champion-web h2{
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    color: gray;
+    font-weight: 800;
   }
