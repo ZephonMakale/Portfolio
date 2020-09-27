@@ -60,7 +60,7 @@
   position: absolute;
   margin: auto;
   left: 240px;
-  top: 430px;
+  top: 400px;
   transform: rotate(-180deg);
 }
 
@@ -71,7 +71,7 @@
   position: absolute;
   margin: auto;
   left: 940px;
-  top: 430px;
+  top: 400px;
   transform: rotate(-180deg);
 }
 .image {
@@ -197,7 +197,7 @@ ul {
 .box-2 {
     box-sizing: content-box;
     width: 1100px;
-    height: 2200px;
+    height: 2950px;
     padding: 10px;
     border: 1px solid grey;
     margin: auto;
@@ -231,3 +231,91 @@ ul {
     color: gray;
     font-weight: 800;
   }
+  
+  .mtalii-web{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px; 
+  }
+
+  .mtalii-web h2{
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    color: gray;
+    font-weight: 800;
+  }
+  
+  .more-work{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .more-work a{
+    text-decoration: none;
+    color: gray;
+  }
+
+  .blog-pg1, .date{
+    justify-content: center;
+    text-align: center;
+  }
+
+  .blog-body{
+    margin: auto;
+    margin-right: 250px;
+    margin-left: 250px;
+    line-height: 30px;
+  }
+
+  .blog-pg1{
+    font-size: 30px;
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+  
+  .conclusion-pg1 h3{
+    font-size: 30px;
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    font-weight: 300;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .date{
+    font-style: italic;
+    color: gray;
+  }
+
+  .box-3{
+    box-sizing: content-box;
+    width: 1100px;
+    height: 1230px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+
+  .blog-pg2{
+    font-size: 28px;
+    font-family: 'Lato', cursive;
+    letter-spacing: 1px;
+    font-weight: 300;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .find-me{
+    font-size: 30px;
+    font-family: 'Lato', cursive;
+  }
+
+  .find-me p{
+    font-weight: 300;
+  }
+  
