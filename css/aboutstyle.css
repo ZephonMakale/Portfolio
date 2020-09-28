@@ -99,219 +99,211 @@
   margin-top: 30px;
 }
 .information {
-  /* display: grid; */
   padding-left: 30px;
   width: 100%;
-  /* width: 400px; */
-  /* flex: 1; */
-  /* justify-content: stretch; */
 }
 
 ul {
   list-style: none;
-  /* padding-left: 0; */
+
   color: black;
 }
 
 .ft-social-list {
-    display: flex;
-    /* justify-content: center;
-    align-items: center; */
-    padding-top: 2rem;
-    justify-content: space-evenly;
-
-  } 
-  /* .ft-social-list li {
-    margin: 0.5rem;
-    font-size: 1.25rem;
-  } */
-  
-  hr{
-      width: 850px;
-  }
-  .ft-social-list li a {
-    color: black;
-    padding: 5px;
-
-  }
-  
-  .ft-legal-list li {
-    color: gray;
-    font-family: 'Lato', sans-serif;
-    letter-spacing: 1.2px;
-    padding-top: 2rem;
-  }
-
-.ft-social{
-    display: flex;
-    justify-content: space-between;
-    justify-content: center;
-
+  display: flex;
+  padding-top: 2rem;
+  justify-content: space-evenly;
 }
 
-.l-portfolio{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 30px;
-    padding-bottom: 30px;
+hr {
+  width: 850px;
+}
+.ft-social-list li a {
+  color: black;
+  padding: 5px;
 }
 
-.l-portfolio h1{
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    font-size: 40px;
-}  
-.l-portfolio p{
-    text-align: center;
-}
-.l-portfolio h5{
-    font-size: 17px;
-    margin: auto;
-    width: 670px;
-    color: grey;
+.ft-legal-list li {
+  color: gray;
+  font-family: "Lato", sans-serif;
+  letter-spacing: 1.2px;
+  padding-top: 2rem;
 }
 
-.hr-2{
-    width: 650px;
-    border: 1px solid grey;
+.ft-social {
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
 }
 
-.mtalii-logo{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 30px;
+.l-portfolio {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 30px;
 }
-.mtalii-logo h2{
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    color: gray;
-    font-weight: 800;
+
+.l-portfolio h1 {
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  font-size: 40px;
+}
+.l-portfolio p {
+  text-align: center;
+}
+.l-portfolio h5 {
+  font-size: 17px;
+  margin: auto;
+  width: 670px;
+  color: grey;
+}
+
+.hr-2 {
+  width: 650px;
+  border: 1px solid grey;
+}
+
+.mtalii-logo {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.mtalii-logo h2 {
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  color: gray;
+  font-weight: 800;
 }
 
 .box-2 {
-    box-sizing: content-box;
-    width: 1100px;
-    height: 2950px;
-    padding: 10px;
-    border: 1px solid grey;
-    margin: auto;
-    margin-top: 70px;
-    margin-bottom: 70px;
-  }
-  .champion-logo{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 30px; 
-  }
+  box-sizing: content-box;
+  width: 1100px;
+  height: 3250px;
+  padding: 10px;
+  border: 1px solid grey;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.champion-logo {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
 
-  .champion-logo h2{
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    color: gray;
-    font-weight: 800;
-  }
+.champion-logo h2 {
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  color: gray;
+  font-weight: 800;
+}
 
-  .champion-web{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 30px; 
-  }
+.champion-web {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
 
-  .champion-web h2{
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    color: gray;
-    font-weight: 800;
-  }
-  
-  .mtalii-web{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-top: 30px; 
-  }
+.champion-web h2 {
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  color: gray;
+  font-weight: 800;
+}
 
-  .mtalii-web h2{
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    color: gray;
-    font-weight: 800;
-  }
-  
-  .more-work{
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-  }
+.mtalii-web {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
 
-  .more-work a{
-    text-decoration: none;
-    color: gray;
-  }
+.mtalii-web h2 {
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  color: gray;
+  font-weight: 800;
+}
 
-  .blog-pg1, .date{
-    justify-content: center;
-    text-align: center;
-  }
+.more-work {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 
-  .blog-body{
-    margin: auto;
-    margin-right: 250px;
-    margin-left: 250px;
-    line-height: 30px;
-  }
+.more-work a {
+  text-decoration: none;
+  color: gray;
+}
 
-  .blog-pg1{
-    font-size: 30px;
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    font-weight: 300;
-  }
-  
-  .conclusion-pg1 h3{
-    font-size: 30px;
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    font-weight: 300;
-    justify-content: center;
-    text-align: center;
-  }
+.blog-pg1,
+.date {
+  justify-content: center;
+  text-align: center;
+}
 
-  .date{
-    font-style: italic;
-    color: gray;
-  }
+.blog-body {
+  margin: auto;
+  margin-right: 250px;
+  margin-left: 250px;
+  line-height: 30px;
+}
 
-  .box-3{
-    box-sizing: content-box;
-    width: 1100px;
-    height: 1230px;
-    padding: 10px;
-    border: 1px solid grey;
-    margin: auto;
-    margin-top: 70px;
-    margin-bottom: 70px;
-  }
+.blog-pg1 {
+  font-size: 30px;
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
 
-  .blog-pg2{
-    font-size: 28px;
-    font-family: 'Lato', cursive;
-    letter-spacing: 1px;
-    font-weight: 300;
-    justify-content: center;
-    text-align: center;
-  }
+.conclusion-pg1 h3 {
+  font-size: 30px;
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  font-weight: 300;
+  justify-content: center;
+  text-align: center;
+}
 
-  .find-me{
-    font-size: 30px;
-    font-family: 'Lato', cursive;
-  }
+.date {
+  font-style: italic;
+  color: gray;
+}
 
-  .find-me p{
-    font-weight: 300;
-  }
-  
+.box-3 {
+  box-sizing: content-box;
+  width: 1100px;
+  height: 1230px;
+  padding: 10px;
+  border: 1px solid grey;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.blog-pg2 {
+  font-size: 28px;
+  font-family: "Lato", cursive;
+  letter-spacing: 1px;
+  font-weight: 300;
+  justify-content: center;
+  text-align: center;
+}
+
+.find-me {
+  font-size: 30px;
+  font-family: "Lato", cursive;
+}
+
+.find-me p {
+  font-weight: 300;
+}
+
+.description {
+  text-align: center;
+  justify-content: center;
+}
