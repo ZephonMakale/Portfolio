@@ -25,7 +25,7 @@
 .box {
   box-sizing: content-box;
   width: 1100px;
-  height: 900px;
+  height: 1380px;
   padding: 10px;
   border: 1px solid grey;
   margin: auto;
@@ -89,10 +89,24 @@
 
 .body {
   display: flex;
-  /* margin: auto; */
-  /* width: 700px; */
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.my-skills, .tools-technologies{
+  font-family: 'Lato', cursive;
+  color: gray;
+  
+}
+
+.my-skills, .tools-technologies, h3{
+  font-weight: 200;
+  letter-spacing: 0.5px;
+}
+.my-education{
+  margin-right: 150px;
+  margin-left: 150px;
+  line-height: 20px;
 }
 
 .image {
