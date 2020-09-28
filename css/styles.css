@@ -8,163 +8,155 @@ body {
   padding: 0;
   margin: 0;
 }
-.title{
-    font-family: "Tangerine", cursive;
-    color: white;
-    font-size: 50px;
-    font-weight: lighter;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: space-evenly;
-    
+.title {
+  font-family: "Tangerine", cursive;
+  color: white;
+  font-size: 50px;
+  font-weight: lighter;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
 }
 
-.skills{
-    display: flex;
-    justify-content: center;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 500px;
-    padding-left: 390px;
-    color: white;
-    letter-spacing: 0.5px;
-    text-decoration: underline;
+.skills {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 500px;
+  padding-left: 390px;
+  color: white;
+  letter-spacing: 0.5px;
+  text-decoration: underline;
 }
 
 .slash {
-    height:0.5px;
-    width: 30px;
-    background: white;
-    position: absolute;
-    margin: auto;
-    left: 540px;
-    top: 350px;
-    transform: rotate(-52deg)
-  }
-  .slash2 {
-    height:0.5px;
-    width: 30px;
-    background: white;
-    position: absolute;
-    margin: auto;
-    left: 700px;
-    top: 350px;
-    transform: rotate(-52deg)
-  }
-.nav ul{
-    list-style: none;
-    text-align: center;
-    justify-content: center;
-    
+  height: 0.5px;
+  width: 30px;
+  background: white;
+  position: absolute;
+  margin: auto;
+  left: 540px;
+  top: 350px;
+  transform: rotate(-52deg);
 }
-.nav li{
-    display: inline-block;
-   
+.slash2 {
+  height: 0.5px;
+  width: 30px;
+  background: white;
+  position: absolute;
+  margin: auto;
+  left: 700px;
+  top: 350px;
+  transform: rotate(-52deg);
 }
-.nav a{
-    text-decoration: none;
-    display: block;
-    padding: 1px;
-    padding-right: 25px;
-    color: white;
-    font-family: 'Lato', sans-serif;
+.nav ul {
+  list-style: none;
+  text-align: center;
+  justify-content: center;
 }
-.title h2{
-    padding-top: 210px;
+.nav li {
+  display: inline-block;
 }
-.container{
-    line-height: 1px;
+.nav a {
+  text-decoration: none;
+  display: block;
+  padding: 1px;
+  padding-right: 25px;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+.title h2 {
+  padding-top: 210px;
+}
+.container {
+  line-height: 1px;
 }
 
 ul {
-    list-style: none;
-    padding-left: 0;
-    color: black;
-    }
-  
-    .ft-social-list {
-    display: flex;
-    justify-content: center;
-    padding-top: 11rem;
-    border-bottom: 1px black solid; 
-    }
-    .ft-social-list li {
-    margin: 0.5rem;
-    font-size: 1.25rem;
-    
-    }
+  list-style: none;
+  padding-left: 0;
+  color: black;
+}
 
-    .ft-social-list li a{
-        color: black;
-    }
-    
-    /* ABOUTME PAGE */
-    .title2{
-        font-family: 'Tangerine', cursive;   
-    color: white;
-    font-size: 50px;
-    font-weight: lighter;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: space-evenly;
-    }
+.ft-social-list {
+  display: flex;
+  justify-content: center;
+  padding-top: 11rem;
+  border-bottom: 1px black solid;
+}
+.ft-social-list li {
+  margin: 0.5rem;
+  font-size: 1.25rem;
+}
 
-    .info{
-        display: flex;
-        justify-content: center;
-        justify-content: space-around;
-    }
+.ft-social-list li a {
+  color: black;
+}
 
-    .box{
-        
-        box-sizing: content-box;  
-        width: 1100px;
-        height: 1000px;
-        padding: 10px;  
-        border: 2px solid blue;
-        margin: auto;
-        margin-top: 100px;
-      }
+/* ABOUTME PAGE */
+.title2 {
+  font-family: "Tangerine", cursive;
+  color: white;
+  font-size: 50px;
+  font-weight: lighter;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
+}
 
-      .aboutme-page{
-          background-color: ivory;
-      }
+.info {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
 
-      .info{
-          font-family: 'Lato', sans-serif;
-      }
-    
-      .nav2 ul{
-        list-style: none;
-        text-align: center;
-        justify-content: center;
-        
-    }
-    .nav2 li{
-        display: inline-block;
-       
-    }
-    .nav2 a{
-        text-decoration: none;
-        display: block;
-        padding: 40px 25px;
-        text-align: center;
-        color: white;
-        font-family: 'Lato', sans-serif;
-    }
+.box {
+  box-sizing: content-box;
+  width: 1100px;
+  height: 1000px;
+  padding: 10px;
+  border: 2px solid blue;
+  margin: auto;
+  margin-top: 100px;
+}
 
-    .slash3 {
-        height:0.5px;
-        width: 100px;
-        background: white;
-        position: absolute;
-        margin: auto;
-        left: 240px;
-        top: 430px;
-        transform: rotate(-180deg)
-      }
-    
+.aboutme-page {
+  background-color: ivory;
+}
+
+.info {
+  font-family: "Lato", sans-serif;
+}
+
+.nav2 ul {
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+}
+.nav2 li {
+  display: inline-block;
+}
+.nav2 a {
+  text-decoration: none;
+  display: block;
+  padding: 40px 25px;
+  text-align: center;
+  color: white;
+  font-family: "Lato", sans-serif;
+}
+
+.slash3 {
+  height: 0.5px;
+  width: 100px;
+  background: white;
+  position: absolute;
+  margin: auto;
+  left: 240px;
+  top: 430px;
+  transform: rotate(-180deg);
+}
