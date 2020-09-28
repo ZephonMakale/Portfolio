@@ -20,7 +20,7 @@ body {
   justify-content: space-evenly;
 }
 
-.skills ul{
+.skills ul {
   /* display: flex;
   justify-content: center;
   justify-content: space-evenly;
@@ -33,7 +33,6 @@ body {
   list-style: none;
   text-align: center;
   justify-content: center;
-
 }
 
 #slash {
@@ -56,13 +55,12 @@ body {
   top: 350px;
   transform: rotate(-52deg);
 }
-.skills li{
-    display: inline-block;
-    padding-right: 25px;
-     color: white;
-     top: 80px;
-     text-decoration: underline;
-    
+.skills li {
+  display: inline-block;
+  padding-right: 25px;
+  color: white;
+  top: 80px;
+  text-decoration: underline;
 }
 
 .nav ul {
@@ -71,7 +69,7 @@ body {
   justify-content: center;
 }
 .nav li {
-    display: inline-block;
+  display: inline-block;
 }
 .nav a {
   text-decoration: none;
@@ -108,4 +106,3 @@ ul {
 .ft-social-list li a {
   color: black;
 }
-
