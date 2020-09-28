@@ -1,5 +1,5 @@
-# My Portfolio Landing Page
-#### This is my Portfolio Landing Page which displays my skills, some of my reel, {28th September 2020}
+## My Portfolio Landing Page
+#### This is my Portfolio Landing Page which displays my skills, some of my reel, 28th September 2020
 #### By **Zephon Makale**
 ## Description
 This is my portfolio landing page which showcases my reel, skills, interests. It contains my previous works, a  blog and also how interested clients can reach me.
