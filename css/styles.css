@@ -20,8 +20,8 @@ body {
   justify-content: space-evenly;
 }
 
-.skills {
-  display: flex;
+.skills ul{
+  /* display: flex;
   justify-content: center;
   justify-content: space-evenly;
   align-items: center;
@@ -29,16 +29,20 @@ body {
   padding-left: 390px;
   color: white;
   letter-spacing: 0.5px;
-  text-decoration: underline;
+  text-decoration: underline; */
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+
 }
 
-.slash {
+#slash {
   height: 0.5px;
   width: 30px;
   background: white;
   position: absolute;
   margin: auto;
-  left: 540px;
+  left: 440px;
   top: 350px;
   transform: rotate(-52deg);
 }
@@ -48,17 +52,26 @@ body {
   background: white;
   position: absolute;
   margin: auto;
-  left: 700px;
+  left: 590px;
   top: 350px;
   transform: rotate(-52deg);
 }
+.skills li{
+    display: inline-block;
+    padding-right: 25px;
+     color: white;
+     top: 80px;
+     text-decoration: underline;
+    
+}
+
 .nav ul {
   list-style: none;
   text-align: center;
   justify-content: center;
 }
 .nav li {
-  display: inline-block;
+    display: inline-block;
 }
 .nav a {
   text-decoration: none;
