@@ -321,3 +321,34 @@ hr {
   text-align: center;
   justify-content: center;
 }
+
+/*CONTACT PAGE */
+
+.box-5{
+  box-sizing: content-box;
+  width: 1100px;
+  height: 1000px;
+  padding: 10px;
+  border: 1px solid grey;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 70px; 
+}
+
+.contact{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+.legend{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.legend legend{
+  font-family: 'Lato', cursive;
+  font-weight: 600;
+  color: gray;
+  letter-spacing: 0.5px;
+}
