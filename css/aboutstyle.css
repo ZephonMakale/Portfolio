@@ -93,17 +93,19 @@
   margin-left: 150px;
 }
 
-.my-skills, .tools-technologies{
-  font-family: 'Lato', cursive;
+.my-skills,
+.tools-technologies {
+  font-family: "Lato", cursive;
   color: gray;
-  
 }
 
-.my-skills, .tools-technologies, h3{
+.my-skills,
+.tools-technologies,
+h3 {
   font-weight: 200;
   letter-spacing: 0.5px;
 }
-.my-education{
+.my-education {
   margin-right: 150px;
   margin-left: 150px;
   line-height: 20px;
@@ -324,7 +326,7 @@ hr {
 
 /*CONTACT PAGE */
 
-.box-5{
+.box-5 {
   box-sizing: content-box;
   width: 1100px;
   height: 1000px;
@@ -332,22 +334,22 @@ hr {
   border: 1px solid grey;
   margin: auto;
   margin-top: 70px;
-  margin-bottom: 70px; 
+  margin-bottom: 70px;
 }
 
-.contact{
+.contact {
   margin-right: 150px;
   margin-left: 150px;
 }
 
-.legend{
+.legend {
   justify-content: center;
   align-items: center;
   text-align: center;
 }
 
-.legend legend{
-  font-family: 'Lato', cursive;
+.legend legend {
+  font-family: "Lato", cursive;
   font-weight: 600;
   color: gray;
   letter-spacing: 0.5px;
