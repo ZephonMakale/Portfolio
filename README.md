@@ -9,7 +9,7 @@ This is my portfolio landing page which showcases my reel, skills, interests. It
 * git clone https://github.com/ZephonMakale/Portfolio.git
 * Open it in an editor "Atom, Vs Code, Sublime text" etc.
 * Contribute and push your changes to your repository.
-* Here is a live link to my live landing page (https://zephonmakale.github.io/Portfolio/)
+* Here is a live link to my Portfolio landing page (https://zephonmakale.github.io/Portfolio/)
 ## Known Bugs
 There are no bugs currently, but I will keep updating the page as time goes by.
 ## Technologies Used
